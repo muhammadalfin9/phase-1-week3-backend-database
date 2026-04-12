@@ -3,11 +3,11 @@ Kali ini kalian akan diberi tugas untuk membuat Warehouse Database System. dan k
 mengerjakan soal ini.
 
 1. buat database warehouse dan buat table dengan mengikuti syarat di bawah ini
-  -  Products (product_id, product_name, category, price)
+`  -  Products (product_id, product_name, category, price)
   -  Inventory (inventory_id, product_id, quantity, location)
   -  Orders (order_id, customer_id, order_date)
   -  OrderDetails (order_detail_id, order_id, product_id, quantity)
-
+`
 2. Masukkan data berikut ke dalam tabel Products:
     - (1, 'Laptop', 'Elektronik', 999,99)
     - (2, 'Meja Kursi', 'Perabot', 199,99)
